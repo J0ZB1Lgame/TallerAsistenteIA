@@ -9,7 +9,7 @@ interactivas con roles definidos (Gemini API).
 - Python 3.10 o superior.
 - Una API key de Gemini (se obtiene gratis en [Google AI Studio](https://aistudio.google.com/apikey)).
 
-## 🔧 Instalación
+## Instalación
 
 1. Clona el repositorio y entra a la carpeta:
    ```bash
