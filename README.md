@@ -91,10 +91,14 @@ preguntaste antes).
 Las capturas de pantalla con la ejecución y salida de cada ejercicio:
 
 Ejercicio 1
+<img width="1178" height="159" alt="image" src="https://github.com/user-attachments/assets/5b617fa1-99f8-483b-870e-dcffd3536d84" />
 
 Ejercicio 2
+<img width="1141" height="386" alt="image" src="https://github.com/user-attachments/assets/22e47937-f234-4c8f-8914-70a2663ac8cb" />
 
 Ejercicio 3
+<img width="1135" height="908" alt="image" src="https://github.com/user-attachments/assets/339e6393-434d-48b8-9f8a-563ef05dd30e" />
+
 
 ## Autores
 
